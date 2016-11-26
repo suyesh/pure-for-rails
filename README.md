@@ -1,5 +1,5 @@
-# Pure-Rails
- [![Gem Version](https://badge.fury.io/rb/blaze_rails.svg)](https://badge.fury.io/rb/blaze_rails)
+# Pure-for-Rails
+[![Gem Version](https://badge.fury.io/rb/pure-for-rails.svg)](https://badge.fury.io/rb/pure-for-rails)
 
  Rails Gem for [Yahoo Pure css](http://purecss.io/)
 
