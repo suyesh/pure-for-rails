@@ -9,7 +9,7 @@
  ## Installation
 
  ```ruby
- gem 'pure-css'
+ gem 'pure-for-rails'
  ```
 
  `bundle install` and restart your server to make the files available through the pipeline.
