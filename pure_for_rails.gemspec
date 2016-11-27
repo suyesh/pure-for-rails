@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'pure_for_rails/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "pure_for_rails"
+  spec.name          = "pure-for-rails"
   spec.version       = PureForRails::VERSION
   spec.authors       = ["Suyesh Bhandari"]
   spec.email         = ["suyeshb@gmail.com"]
