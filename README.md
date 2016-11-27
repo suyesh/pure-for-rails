@@ -3,11 +3,9 @@
 
  Rails Gem for [Yahoo Pure css](http://purecss.io/)
 
- ![Yahoo Pure Css for Rails](http://purecss.io/img/logo_pure@2x.png)		 +TODO: Delete this and the text above, and describe your gem
+ ![Yahoo Pure Css for Rails](http://purecss.io/img/logo_pure@2x.png)
 
- ## Installation
-
- ## Installation
+ ##Installation
  ```ruby
  gem 'pure-for-rails'
  ```
