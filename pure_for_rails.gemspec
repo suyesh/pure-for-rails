@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Rails Gem for yahoo pure css"
   spec.description   = "Rails Gem for yahoo pure css"
-  spec.homepage      = "https://github.com/suyesh/pure_for_rails"
+  spec.homepage      = "https://github.com/suyesh/pure-for-rails"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
