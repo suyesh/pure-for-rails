@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in pure-rails.gemspec
+# Specify your gem's dependencies in pure_for_rails.gemspec
 gemspec
