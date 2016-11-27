@@ -1,6 +1,6 @@
-require "pure/rails/version"
+require "pure_rails/version"
 
-module Pure
+module PureRails
   module Rails
     class Engine < ::Rails::Engine
     end

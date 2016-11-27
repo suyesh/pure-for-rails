@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'pure/rails/version'
+require 'pure_rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "pure-for-rails"
-  spec.version       = Pure::Rails::VERSION
+  spec.version       = PureRails::VERSION
   spec.authors       = ["Suyesh Bhandari"]
   spec.email         = ["suyeshb@gmail.com"]
 
