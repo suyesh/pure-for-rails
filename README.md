@@ -15,6 +15,6 @@
 
  Edit application.css.scss
  ```css		
- @import "css/pure";		
+ @import "pure";		
  ```		
  For Documentation on Pure Css [visit their site](http://purecss.io/)		
